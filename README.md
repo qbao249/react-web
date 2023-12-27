@@ -1,3 +1,12 @@
+# Settings for VSCode
+
+- Install some extensions:
+  - esbenp.prettier-vscode
+  - dbaeumer.vscode-eslint
+  - dsznajder.es7-react-js-snippets
+  - mhutchie.git-graph
+  - rohit-gohri.format-code-action
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
